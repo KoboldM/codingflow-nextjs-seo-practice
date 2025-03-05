@@ -1,5 +1,9 @@
 # Next.js SEO - The Ultimate Guide
 
+notes.md has all personal notes; used this as follow along guide for self-study
+
+---
+
 This is the code for my **Next.js 14 SEO tutorial on YouTube**. It uses the app router and implements various SEO best practices, including:
 - Static & dynamic metadata
 - Dynamic sitemap & robots.txt file
